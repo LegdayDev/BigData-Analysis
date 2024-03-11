@@ -35,9 +35,9 @@
 
 1. Pandas 자료구조
     - 데이터프레임 , 시리즈
-        - [데이터프레임 사용법](https://github.com/LegdayDev/Python-DataAnalysis/blob/master/day01/da_01_pandas_basic.ipynb)
+        - [데이터프레임 사용법](https://github.com/LegdayDev/BigData-DataAnalysis/blob/master/day01/da_01_pandas_basic.ipynb)
     - 데이터 통합
-        - [데이터 통합 사용법](https://github.com/LegdayDev/Python-DataAnalysis/blob/master/day01/da_02_pandas_basic.ipynb) 
+        - [데이터 통합 사용법](https://github.com/LegdayDev/BigData-DataAnalysis/blob/master/day01/da_02_pandas_basic.ipynb) 
     
 
 
