@@ -4,7 +4,7 @@
 
 #### Pandas 학습(1일차에서 계속)
 2. `Pandas` 내용 통합(merge, concat)
-   - ![concat]('https://github.com/LegdayDev/BigData-Analysis/blob/master/day02/images/ba002.png')
+   - ![concat](https://github.com/LegdayDev/BigData-Analysis/blob/master/day02/images/ba002.png)
 #### Numpy 학습
 - `Numpy` 는 _**행렬처리 수치 계산을 손쉽게**_ 할 수 있도록 도와주는 계산관련 라이브러리
 - `Scipy` 는 과학쪽에 특화된 계산관련 라이브러리
@@ -15,7 +15,7 @@
 
 #### Selenium 학습
 - 크롬 드라이버 버전확인
-  - ![크롬버전확인]('https://github.com/LegdayDev/BigData-Analysis/blob/master/day02/images/ba003.png')
+  - ![크롬버전확인](https://github.com/LegdayDev/BigData-Analysis/blob/master/day02/images/ba003.png)
 - 크롬 드라이버를 버전에 맞게 설치하고 설치파일을 `/usr/local/bin` 으로 이동
 - `BeatifulSoup` 라이브러리를 이용하여 크롤링한 데이터를 HTML 모형으로 변경
 ---
