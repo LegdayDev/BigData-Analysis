@@ -22,3 +22,9 @@
 > 2. `BeautifulSoup4` 사용법
 ### 빅데이터 분석 실습
 > 1. COVID19 영향으로 중국인 관광객수 감소 분석(미완)
+
+## [4일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day04.md)
+### 빅데이터 분석 실습
+> 1. COVID19 영향으로 중국인 관광객수 감소 분석(완성)
+> 2. 제주도 핫플레이스 웹크롤링 및 시각화
+> 3. 워드 클라우드 학습
