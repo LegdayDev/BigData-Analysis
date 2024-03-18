@@ -14,3 +14,8 @@
 >> - ![ba12](https://github.com/LegdayDev/BigData-Analysis/blob/master/day07/images/ba12.png)
 >> 4. 서울시 구별 사업체수 시각화
 >> - ![ba13](https://github.com/LegdayDev/BigData-Analysis/blob/master/day07/images/ba13.png)
+
+#### 무선청소기 인기상품 비교분석
+> 1. [다나와](https://www.danawa.com) 사이트에서 무선청소기 검색 후 Selenium 으로 웹 크롤링
+> 2. 크롤링한 데이터를 DataFrame으로 변환 후 엑셀파일로 저장
+>> ![무선청소기](https://github.com/LegdayDev/BigData-Analysis/blob/master/day07/images/ba14.png)
