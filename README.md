@@ -47,3 +47,9 @@
 ## [8일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day08.md)
 ### 빅데이터 분석 실습
 > 1. 무선청소기 종류 분석(완료)
+
+## [9일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day09.md)
+### 빅데이터 분석 실습
+> 1. OpenAPI 기반 크롤링 실습
+> 2. 통계 분석 리뷰
+> 3. 머신러닝 실습
