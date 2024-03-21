@@ -52,4 +52,9 @@
 ### 빅데이터 분석 실습
 > 1. OpenAPI 기반 크롤링 실습
 > 2. 통계 분석 리뷰
-> 3. 머신러닝 실습
+
+## [10일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day10.md)
+### 빅데이터 분석 실습
+> 1. OpenAPI 기반 크롤링 실습
+> 2. 통계 분석(와인품질) 리뷰
+> 3. 타이타닉 생존자 상관관게 분석
