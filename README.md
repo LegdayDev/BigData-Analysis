@@ -59,8 +59,14 @@
 > 2. 통계 분석(와인품질) 리뷰
 > 3. 타이타닉 생존자 상관관계 분석
 
-## [11일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day11.md)(추후에 수정해서 완료해야함)
+## [11일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day11.md)
 ### 머신러닝 학습
 > 1. 회귀분석
 > 2. 환경에 따른 주택가격 예측
 > 3. 로지스틱 회귀분석
+
+## [12일차](https://github.com/LegdayDev/BigData-Analysis/blob/master/md/Day12.md)
+### 머신러닝 실습
+> 1. 로지스틱회귀 분석 최종완료
+> 2. 결정트리 분석 및 시각화
+> 3. 텍스트 마이닝(진행중)
